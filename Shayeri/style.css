@@ -1,0 +1,66 @@
+body {
+    background-image: url(./images/q1\ img.jpg);
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+
+}
+
+.quote {
+    font-size: 500%;
+
+    font-family: afia;
+    src: url(./fonts/Honk-Regular-VariableFont_MORF\,SHLN.ttf);
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    background-image: url(./images/bg\ new.webp);
+    background-repeat: no repeat;
+    background-attachment: fixed;
+
+
+}
+
+.quote1 {
+    color: midnightblue;
+    font-family: fantasy;
+}
+
+.quote2 {
+    color: crimson;
+    font-family: monospace;
+}
+
+.quote3 {
+    color: rgb(17, 7, 113);
+    font-family: unset;
+}
+
+@font-face {
+    font-family: afia;
+    src: url(./fonts/Honk-Regular-VariableFont_MORF\,SHLN.ttf);
+
+    font-size: 32px;
+}
+
+.ar {
+    color: rgb(15, 107, 107);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hi {
+    color: rgb(105, 7, 71);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+    font-family: Georgia, Times, serif;
+    font-size: 250%;
+    text-shadow: 3px 2px 3px #666666;
+    padding-bottom: 20px;
+    font-weight: normal;
+    color: black;
+}
